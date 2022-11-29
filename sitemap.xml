@@ -1,0 +1,36 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url> 
+    <loc>https://zxclivan.github.io/ivan/index.html </loc> 
+    <lastmod> 2022-10-03</lastmod> 
+    <changefreq>weekly</changefreq> 
+    <priority>1/priority> 
+    </url> 
+ 
+<url> 
+    <loc>https://zxclivan.github.io/ivan/shop.html</loc> 
+    <lastmod> 2022-10-03</lastmod> 
+    <changefreq>weekly</changefreq> 
+    <priority>0.50/priority> 
+    </url> 
+ 
+<url> 
+    <loc>https://zxclivan.github.io/ivan/contact.html </loc> 
+    <lastmod> 2022-10-03</lastmod> 
+    <changefreq>weekly</changefreq> 
+    <priority>0.80/priority> 
+    </url> 
+ 
+  <url> 
+    <loc>https://zxclivan.github.io/ivan/regular-page.html </loc> 
+    <lastmod> 2022-10-03</lastmod> 
+    <changefreq>weekly</changefreq> 
+    <priority>0.80/priority> 
+    </url>
+    
+    <url> 
+    <loc>https://zxclivan.github.io/ivan/blog.html </loc> 
+    <lastmod> 2022-10-03</lastmod> 
+    <changefreq>weekly</changefreq> 
+    <priority>0.80/priority> 
+    </url>
+</urlset>
